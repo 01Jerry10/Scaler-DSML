@@ -1,0 +1,6 @@
+1.git init
+2.git add .
+3.git commit -m "commit message"
+4.git status
+5.git remote add origin "your repo ssh link without the double quotes"
+6.git push origin master
